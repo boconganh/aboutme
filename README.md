@@ -3,4 +3,4 @@ aboutme
 
 Some infomation about me.
 
-This is [my](http://daynhauhoc.com/users/gio/activity "Profile") .
+This is [my profile](http://daynhauhoc.com/users/gio/activity "Profile") .
